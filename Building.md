@@ -1,8 +1,8 @@
 # Building Sudo for Windows
 
-Sudo for Windows is a Rust project. If you're new to Rust, you can get started with the [Rust Book](https://doc.rust-lang.org/book/). You can quickly get started with rust by installing and running `rustup`:
+Sudo for Windows is a Rust project. If you're new to Rust, you can get started with the [Rust Book](https://doc.rust-lang.org/book/). You can quickly get started with rust by installing and running ``:
 
-```cmd
+```
 winget install --id Rustlang.rustup --source winget
 rustup update
 ```
